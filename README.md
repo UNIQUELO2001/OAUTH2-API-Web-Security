@@ -28,6 +28,17 @@ This project is part of an academic thesis comparing **OAuth 2.0** with **SPHINC
   - Data visualization of attack results
 
 ---
+## 📷 ScreenShots
+<img width="1104" height="621" alt="image" src="https://github.com/user-attachments/assets/84ed9499-2c84-4f8f-807a-199b712d4d8a" />
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/a10b78d4-fd19-4897-a9b3-8bbac66f1bb8" />
+
+<img width="1105" height="621" alt="image" src="https://github.com/user-attachments/assets/f38c4d29-cf3e-4a2a-b611-0663bcbb2e6e" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/4eb428b6-3bf8-4c2d-a2ec-e11464af80a2" />
+
+<img width="1107" height="622" alt="image" src="https://github.com/user-attachments/assets/f7317899-668a-45e0-804a-06f605c9a9ca" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/eb28c8ae-cd52-45cf-a47f-115565af62ff" />
+
+---
 
 ## 📂 Project Structure
 OAUTH2-API-Web-Security/.venv
